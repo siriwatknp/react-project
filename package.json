@@ -23,5 +23,9 @@
     "build": "NODE_PATH=src react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "@storybook/addon-knobs": "^3.2.8",
+    "@storybook/react": "^3.2.8"
   }
 }
